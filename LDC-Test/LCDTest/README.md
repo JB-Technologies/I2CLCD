@@ -1,5 +1,7 @@
 # LCDTest
 
+!!! This Project is Currently unable to compile under the workbench !!!
+
 A Particle project named LCDTest
 
 ## Welcome to your project!
